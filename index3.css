@@ -1,0 +1,49 @@
+#wrapper {
+background: #FFFFFF;
+width: 900px;
+height: 100px;
+}
+#header {
+background: #838283;
+height: 200px;
+
+width: 900px;
+}
+#navigator {
+background: #a2a2a2;
+width: 900px;
+height: 10px;
+}
+#menu {
+background: #333333;
+height:50px;
+width: 900px;
+}
+#content {
+background: #d2d0d2;
+width: 900px;
+height: 800px;
+}
+#rooter {
+background: #838283;
+height: 180px;
+width: 900px;
+}
+body{
+background-image :url(фон.jfif)
+}
+a:link, a:visited, a:hover, a:active {
+    color: black;
+    text-decoration: none;
+    font-size: 50px;}
+
+    #q{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;}
+
+     #w{
+   align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
